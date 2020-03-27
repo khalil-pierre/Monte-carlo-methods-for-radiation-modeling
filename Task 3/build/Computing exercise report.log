@@ -1,0 +1,222 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=latex 2019.4.5)  5 APR 2019 04:10
+entering extended mode
+**"./Computing exercise report.tex"
+("Computing exercise report.tex"
+LaTeX2e <2018-04-01> patch level 5
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex\revtex4-1.cl
+s"
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip41
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
+\intertabularlinepenalty=\count80
+\@tbpen=\count81
+\@arstrutbox@hline=\box26
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count82
+\c@collab=\count83
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count84
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count85
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count92
+\fbox@1=\box36
+\c@table=\count93
+\fbox@2=\box37
+\c@video=\count94
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+Class revtex4-1 Info: Selecting society aps on input line 7542.
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex\aps4-1.rtx"
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
+)
+Class revtex4-1 Info: Selecting journal prl on input line 7544.
+Class revtex4-1 Info: APS journal PRL selected on input line 7545.
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex\aps10pt4-1.r
+tx"
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
+)
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textcase\textcase.s
+ty"
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+) ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count95
+)
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex\revsymb4-1.s
+ty"
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+))
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\dvips.
+def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+) ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+) ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+Class revtex4-1 Info: Patching LaTeX tabular. on input line 5.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 5.
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 5.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 5.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 5.
+
+("C:\Users\user\Documents\3rd year\Computing\Exercise 3\Task 3\build\Computing 
+exercise report.aux")
+\openout1 = `"Computing exercise report.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 5.
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\openout3 = `"Computing exercise reportNotes.bib"'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+
+
+! LaTeX Error: File `figure1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...phics*[width=0.96\linewidth,clip]{figure1}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 35.
+
+LaTeX Warning: Reference `Expansionequation' on page 1 undefined on input line 
+35.
+
+
+LaTeX Warning: Reference `Expansionequation' on page 1 undefined on input line 
+35.
+
+No file "Computing exercise report".bbl.
+[1]
+("C:\Users\user\Documents\3rd year\Computing\Exercise 3\Task 3\build\Computing 
+exercise report.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2707 strings out of 492970
+ 36115 string characters out of 3127057
+ 104419 words of memory out of 3000000
+ 6587 multiletter control sequences out of 15000+200000
+ 11332 words of font info for 35 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 26i,4n,21p,555b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on "C:\Users\user\Documents\3rd year\Computing\Exercise 3\Task 3
+\build\Computing exercise report.dvi" (1 page, 1180 bytes).
